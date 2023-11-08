@@ -1,0 +1,43 @@
+body{
+    background: rgb(228, 31, 162);
+}
+.amar{
+    margin: auto;
+    width: 70%;
+    border: 2px solid black;
+    align-items: center;
+    padding: 50px;
+    border-radius: 50px 50px 50px 50px;
+    background:rgb(181, 224, 63);
+
+}
+h2{
+    text-align: center;
+}
+input   {
+    border-radius: 25px 0 25px 0;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+}
+.btn{
+    align-items: center;
+}
+.naru{
+    width: 90%;
+    padding: 10px 30px;
+    margin: 20px ;
+    text-align: start;
+    align-items: center;
+}
+.btn{
+    width: 90%;
+    padding: 10px 30px;
+    margin: 20px ;
+    text-align: center;
+    align-items: center;
+}
+
+
+
